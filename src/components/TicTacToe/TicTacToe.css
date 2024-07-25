@@ -35,16 +35,16 @@
 }
 
 .board {
-    height: 600px;
-    width: 564px;
+    height: 500px;
+    width: 474px;
     display: flex;
     margin: auto;
 }
 
 .boxes {
     display: flex;
-    height: 180px;
-    width: 180px;
+    height: 150px;
+    width: 150px;
     background: #1f3540;
     border: 4px solid #0f1b21;
     border-radius: 12px;
